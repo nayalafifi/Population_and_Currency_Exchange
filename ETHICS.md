@@ -19,7 +19,7 @@ The project uses the free tier of ExchangeRate-API, which comes with rate-limiti
 
 ## Copyright and Attribution
 
-- **World Population Review**: The data scraped from this website is publicly available, and we give full credit to the source in our documentation.
+- **World Population Review**: The data scraped from this website is publicly available, and i've give full credit to the source in our documentation.
 - **ExchangeRate-API**: Similarly, the ExchangeRate-API is a free service.
 
 
