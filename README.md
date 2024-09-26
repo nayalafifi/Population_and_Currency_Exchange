@@ -15,7 +15,7 @@ The dataset includes:
 - **Exchange Rate to USD**: The exchange rate of the country's currency to USD, fetched from the ExchangeRate-API.
 
 ### Why this Website and API?
-We chose the World Population Review because it provides up-to-date and reliable population statistics for all countries in a structured format. The ExchangeRate-API was chosen for its easy-to-use and real-time exchange rate data, which complements the population data well by allowing economic analysis.
+I chose the World Population Review because it provides up-to-date and reliable population statistics for all countries in a structured format. The ExchangeRate-API was chosen for its easy-to-use and real-time exchange rate data, which complements the population data well by allowing economic analysis.
 
 ### Value of the Dataset
 This dataset provides a unique combination of demographic and economic data, allowing for deeper analysis into trends such as population growth, economic power through currency comparison, and geographic size. While population datasets are commonly available, datasets that combine real-time exchange rates and population statistics in one place are rare or often hidden behind paywalls.
