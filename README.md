@@ -25,7 +25,12 @@ By combining data from two sources, the dataset provides users with an integrate
 - Development of applications for economic or demographic forecasting.
 - Educational tools for teaching international economics and geography.
 
+## The project requires the following python packages
 
-Clone the repository using the following command:
+- `beautifulsoup4==4.10.0` (for web scraping)
+- `requests==2.26.0` (for making HTTP requests)
+- `pandas==1.3.3` (for data manipulation and exporting CSVs)
+
+## Clone the repository using the following command:
 ```bash
 git clone https://github.com/nayalafifi/Population_and_Currency_Exchange.git
