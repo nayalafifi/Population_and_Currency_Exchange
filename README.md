@@ -26,3 +26,6 @@ By combining data from two sources, the dataset provides users with an integrate
 - Educational tools for teaching international economics and geography.
 
 
+Clone the repository using the following command:
+```bash
+git clone https://github.com/nayalafifi/Population_and_Currency_Exchange.git
